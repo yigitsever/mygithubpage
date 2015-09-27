@@ -57,6 +57,9 @@ a {
   color: #fff;
   text-align: center;
   background-color: #0000FF;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
   background-image: url("https://dl.pushbulletusercontent.com/RfKs1EVDvXatt9gxVtLdyuclTqmcTdc2/905533227775-1425406154.jpg") no-repeat center }
 
 @media screen and (min-width: 64em) {
