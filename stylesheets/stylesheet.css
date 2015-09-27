@@ -63,6 +63,7 @@ a {
   min-width: 100%;
   opacity:50;
   overflow: hidden;
+  background-size: 100%;
   background-image: url("https://dl.pushbulletusercontent.com/RfKs1EVDvXatt9gxVtLdyuclTqmcTdc2/905533227775-1425406154.jpg")}
 
 @media screen and (min-width: 64em) {
