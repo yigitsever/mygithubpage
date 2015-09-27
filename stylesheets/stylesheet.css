@@ -7,8 +7,6 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-image: url("https://dl.pushbulletusercontent.com/RfKs1EVDvXatt9gxVtLdyuclTqmcTdc2/905533227775-1425406154.jpg")}
-
   color: #606c71; }
 
 a {
@@ -55,16 +53,19 @@ a {
       margin-top: 1rem;
       margin-left: 0; } }
 
-.background {
+.page-header {
   color: #fff;
   text-align: center;
   background-color: #0000FF;
   background-position: center center;
   background-repeat: no-repeat;
-  width: 100%;
+  min-height: 100%;
+  min-width: 100%;
   opacity: 0.8;
   background-color: #000000;
+  overflow: hidden;
   background-size: 100%;
+  background-image: url("https://dl.pushbulletusercontent.com/RfKs1EVDvXatt9gxVtLdyuclTqmcTdc2/905533227775-1425406154.jpg")}
 
 @media screen and (min-width: 64em) {
   .page-header {
